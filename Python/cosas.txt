@@ -1,0 +1,4 @@
+NOTAS:
+
+Con el numeral (#) se comenta una sola linea
+Con las comillas triples (""") se comentan varias lineas
